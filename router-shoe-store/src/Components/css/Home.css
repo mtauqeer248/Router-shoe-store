@@ -1,0 +1,21 @@
+.banner button{
+    border: none;
+    outline: none;
+    background: #333;
+    color: white;
+    width: 200px;
+    height: 40px;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 15px 0;
+    position: absolute;
+   top:70%;
+   left:40%;
+
+}
+.banner span {
+    text-decoration: none;
+    color:white;
+}

@@ -1,0 +1,10 @@
+.container{
+    justify-content: center;
+}
+.container h1{
+    color: aqua;
+}
+.container h3{
+    font-size: large;
+    text-decoration-color: aqua;
+}
